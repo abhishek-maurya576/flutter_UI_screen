@@ -49,7 +49,7 @@ A beautiful and futuristic 3D-style login and registration UI for Flutter applic
 
 1. Clone this repository
    ```
-   git clone https://github.com/yourusername/futura-login.git
+   git clone https://github.com/abhishek-maurya576/flutter_UI_screen.git
    ```
 
 2. Navigate to the project directory
