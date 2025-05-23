@@ -64,3 +64,11 @@ GoogleService-Info.plist
 *~
 *.bak
 *.tmp
+
+# Release files
+/releases/*.apk
+/releases/*.aab
+/releases/*.zip
+/releases/bundle
+# But keep the release notes
+!/releases/RELEASE_NOTES.md
